@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rbreton
 - 👀 I’m interested in computer and programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and some cybersecurity stuff! :D
 - 📫 You can reach me via my email : bretonr@gmail.com
