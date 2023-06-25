@@ -5,7 +5,7 @@ Web Developer and Pen Tester
 ----------------------------
 
 *   🌍  I'm based in Quebec, Canada
-*   🖥️  See my portfolio at [bretonr.ca](http://bretonr.ca)
+*   🖥️  See my web site at [bretonr.ca](http://bretonr.ca)
 *   ✉️  You can contact me at [remi@bretonr.ca](mailto:remi@bretonr.ca)
 *   🧠  I'm learning new skills each day and I love it
 
